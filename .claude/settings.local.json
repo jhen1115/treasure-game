@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(vercel *)",
+      "Bash(git --version)",
+      "Bash(npm --version)",
+      "Bash(gh --version)",
+      "Bash(gh auth *)",
+      "Bash(git remote *)",
+      "Bash(git add *)",
+      "Bash(git rm *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(python3 *)",
+      "Bash(npm run *)",
+      "Bash(npx gh-pages *)",
+      "Bash(gh api *)",
+      "Bash(git *)",
+      "Bash(gh repo *)"
+    ]
+  }
+}
